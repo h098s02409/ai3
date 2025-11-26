@@ -77,7 +77,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     labels[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGeKHyvfkQyeKL-SjRdjPNjDxGfF7YlwK_TDKSR6s-WEWqUQQgpeS_aCuQ6K-wEA71vY4&usqp=CAU"]},
     labels[1] : {"texts" : ["짜장면은 맛있어"], "images" : ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCIYe6tXLLLd58f6X8gr3gi3uSwsizc15GKQ&s"]},
     labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://wimg.kyeongin.com/news/cms/2025/08/21/9/news-p.v1.20250718.8afaa460292242158f26b9c54599fc29_P4.webp"]},
-    labels[0] : {"texts" : ["탕수육은 맛있어"], "images" : ["https://blog.kakaocdn.net/dna/qnIz2/btqSdtiK7C4/AAAAAAAAAAAAAAAAAAAAAK_eDgChgNlbA3DwDL3Rhp3zyE68j5YgxkTq4Zz6RRN5/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=IgQS1EsJodJN9xYMyJB6awE7Ae8%3D]},
+    labels[0] : {"texts" : ["탕수육은 맛있어"], "images" : ["https://i.namu.wiki/i/NSZu9w4DRwEPOCgPSzvs4sAZlxfMBoxZLCZQgM_O4wRH8jN0guRfBiLURu-Tno5p-Q2aw5e5gy9gLJsnYKlq8Q.webp]},
 }
 
 # ======================
